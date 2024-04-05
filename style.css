@@ -15,7 +15,7 @@ body{
                                                 
 }
 nav{
-    padding: 0 3.8vmax;
+    padding: 0 4.6vmax;
     box-shadow: 0 0 4px #bbd0e2;
 }
 ul li{
@@ -49,7 +49,6 @@ ul li:hover{
     gap: 5vmax;
     /* row-gap: 20px; */
     align-items: start;
-    background-color: red;
     flex-wrap: wrap;
 }
 
